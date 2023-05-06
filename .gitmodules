@@ -8,3 +8,8 @@
 	url = https://github.com/cran/FESta
 	shallow = true
 	registered = true
+[submodule "SSplots"]
+	path = SSplots
+	url = https://github.com/cran/SSplots
+	shallow = true
+	registered = true
